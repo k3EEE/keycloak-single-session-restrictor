@@ -1,0 +1,1 @@
+"# keycloak-single-session-restrictor" 
